@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iktider
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C Programming Language
+- 🌱 I’m currently learning C Programming and Java Language
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me farhan.lktider@northsouth.edu
 
